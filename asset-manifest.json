@@ -1,7 +1,8 @@
 {
   "files": {
-    "main.css": "/Portfolio-Rushikesh-Patil/static/css/main.11f4489e.css",
-    "main.js": "/Portfolio-Rushikesh-Patil/static/js/main.50da0ce1.js",
+    "main.css": "/Portfolio-Rushikesh-Patil/static/css/main.1f0f37a0.css",
+    "main.js": "/Portfolio-Rushikesh-Patil/static/js/main.a887e320.js",
+    "static/media/Bootstrap.png": "/Portfolio-Rushikesh-Patil/static/media/Bootstrap.b95d87ebec75eee46779.png",
     "static/media/Mysql.png": "/Portfolio-Rushikesh-Patil/static/media/Mysql.7f7318bd1d5c6479b311.png",
     "static/media/Logo.png": "/Portfolio-Rushikesh-Patil/static/media/Logo.eb3565171df2d9c70b1e.png",
     "static/media/resume.pdf": "/Portfolio-Rushikesh-Patil/static/media/resume.31e95d5124d0b129d35b.pdf",
@@ -20,11 +21,11 @@
     "static/media/servlet.png": "/Portfolio-Rushikesh-Patil/static/media/servlet.5cce6d5e87ac3e2d9d82.png",
     "static/media/g-soft.jpeg": "/Portfolio-Rushikesh-Patil/static/media/g-soft.494d33a7bd5f601a4461.jpeg",
     "index.html": "/Portfolio-Rushikesh-Patil/index.html",
-    "main.11f4489e.css.map": "/Portfolio-Rushikesh-Patil/static/css/main.11f4489e.css.map",
-    "main.50da0ce1.js.map": "/Portfolio-Rushikesh-Patil/static/js/main.50da0ce1.js.map"
+    "main.1f0f37a0.css.map": "/Portfolio-Rushikesh-Patil/static/css/main.1f0f37a0.css.map",
+    "main.a887e320.js.map": "/Portfolio-Rushikesh-Patil/static/js/main.a887e320.js.map"
   },
   "entrypoints": [
-    "static/css/main.11f4489e.css",
-    "static/js/main.50da0ce1.js"
+    "static/css/main.1f0f37a0.css",
+    "static/js/main.a887e320.js"
   ]
 }
