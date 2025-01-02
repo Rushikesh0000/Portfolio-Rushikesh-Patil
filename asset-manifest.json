@@ -1,30 +1,30 @@
 {
   "files": {
-    "main.css": "/Rushikesh0000/Portfolio-Rushikesh-Patil.git/static/css/main.11f4489e.css",
-    "main.js": "/Rushikesh0000/Portfolio-Rushikesh-Patil.git/static/js/main.b1b32f7a.js",
-    "static/media/Mysql.png": "/Rushikesh0000/Portfolio-Rushikesh-Patil.git/static/media/Mysql.7f7318bd1d5c6479b311.png",
-    "static/media/Logo.png": "/Rushikesh0000/Portfolio-Rushikesh-Patil.git/static/media/Logo.eb3565171df2d9c70b1e.png",
-    "static/media/resume.pdf": "/Rushikesh0000/Portfolio-Rushikesh-Patil.git/static/media/resume.31e95d5124d0b129d35b.pdf",
-    "static/media/profile_img.JPG": "/Rushikesh0000/Portfolio-Rushikesh-Patil.git/static/media/profile_img.3eeed95507cf818a1a3f.JPG",
-    "static/media/dotnet.png": "/Rushikesh0000/Portfolio-Rushikesh-Patil.git/static/media/dotnet.4fa918c7175b89e0c584.png",
-    "static/media/image.png": "/Rushikesh0000/Portfolio-Rushikesh-Patil.git/static/media/image.1321d7ca9c8d4bbe8ed4.png",
-    "static/media/react.png": "/Rushikesh0000/Portfolio-Rushikesh-Patil.git/static/media/react.ed5e8890c3d4ddbb3499.png",
-    "static/media/java.png": "/Rushikesh0000/Portfolio-Rushikesh-Patil.git/static/media/java.6d7de0ac50b4e28cdee2.png",
-    "static/media/springboot.png": "/Rushikesh0000/Portfolio-Rushikesh-Patil.git/static/media/springboot.d8bfa2a3bcf90cd173ab.png",
-    "static/media/Git.png": "/Rushikesh0000/Portfolio-Rushikesh-Patil.git/static/media/Git.c842a1f8a2050921f009.png",
-    "static/media/javascript.png": "/Rushikesh0000/Portfolio-Rushikesh-Patil.git/static/media/javascript.1f2210d62dd190756949.png",
-    "static/media/RestApi.png": "/Rushikesh0000/Portfolio-Rushikesh-Patil.git/static/media/RestApi.7aada9af406e1fcce57f.png",
-    "static/media/html.png": "/Rushikesh0000/Portfolio-Rushikesh-Patil.git/static/media/html.0bfb826c35c7372898de.png",
-    "static/media/jsp.png": "/Rushikesh0000/Portfolio-Rushikesh-Patil.git/static/media/jsp.a683f74e7e05c8004563.png",
-    "static/media/bajaj.png": "/Rushikesh0000/Portfolio-Rushikesh-Patil.git/static/media/bajaj.3afc5e20a4c761e9fe58.png",
-    "static/media/servlet.png": "/Rushikesh0000/Portfolio-Rushikesh-Patil.git/static/media/servlet.5cce6d5e87ac3e2d9d82.png",
-    "static/media/g-soft.jpeg": "/Rushikesh0000/Portfolio-Rushikesh-Patil.git/static/media/g-soft.494d33a7bd5f601a4461.jpeg",
-    "index.html": "/Rushikesh0000/Portfolio-Rushikesh-Patil.git/index.html",
-    "main.11f4489e.css.map": "/Rushikesh0000/Portfolio-Rushikesh-Patil.git/static/css/main.11f4489e.css.map",
-    "main.b1b32f7a.js.map": "/Rushikesh0000/Portfolio-Rushikesh-Patil.git/static/js/main.b1b32f7a.js.map"
+    "main.css": "/Portfolio-Rushikesh-Patil/static/css/main.11f4489e.css",
+    "main.js": "/Portfolio-Rushikesh-Patil/static/js/main.50da0ce1.js",
+    "static/media/Mysql.png": "/Portfolio-Rushikesh-Patil/static/media/Mysql.7f7318bd1d5c6479b311.png",
+    "static/media/Logo.png": "/Portfolio-Rushikesh-Patil/static/media/Logo.eb3565171df2d9c70b1e.png",
+    "static/media/resume.pdf": "/Portfolio-Rushikesh-Patil/static/media/resume.31e95d5124d0b129d35b.pdf",
+    "static/media/profile_img.JPG": "/Portfolio-Rushikesh-Patil/static/media/profile_img.3eeed95507cf818a1a3f.JPG",
+    "static/media/dotnet.png": "/Portfolio-Rushikesh-Patil/static/media/dotnet.4fa918c7175b89e0c584.png",
+    "static/media/image.png": "/Portfolio-Rushikesh-Patil/static/media/image.1321d7ca9c8d4bbe8ed4.png",
+    "static/media/react.png": "/Portfolio-Rushikesh-Patil/static/media/react.ed5e8890c3d4ddbb3499.png",
+    "static/media/java.png": "/Portfolio-Rushikesh-Patil/static/media/java.6d7de0ac50b4e28cdee2.png",
+    "static/media/springboot.png": "/Portfolio-Rushikesh-Patil/static/media/springboot.d8bfa2a3bcf90cd173ab.png",
+    "static/media/Git.png": "/Portfolio-Rushikesh-Patil/static/media/Git.c842a1f8a2050921f009.png",
+    "static/media/javascript.png": "/Portfolio-Rushikesh-Patil/static/media/javascript.1f2210d62dd190756949.png",
+    "static/media/RestApi.png": "/Portfolio-Rushikesh-Patil/static/media/RestApi.7aada9af406e1fcce57f.png",
+    "static/media/html.png": "/Portfolio-Rushikesh-Patil/static/media/html.0bfb826c35c7372898de.png",
+    "static/media/jsp.png": "/Portfolio-Rushikesh-Patil/static/media/jsp.a683f74e7e05c8004563.png",
+    "static/media/bajaj.png": "/Portfolio-Rushikesh-Patil/static/media/bajaj.3afc5e20a4c761e9fe58.png",
+    "static/media/servlet.png": "/Portfolio-Rushikesh-Patil/static/media/servlet.5cce6d5e87ac3e2d9d82.png",
+    "static/media/g-soft.jpeg": "/Portfolio-Rushikesh-Patil/static/media/g-soft.494d33a7bd5f601a4461.jpeg",
+    "index.html": "/Portfolio-Rushikesh-Patil/index.html",
+    "main.11f4489e.css.map": "/Portfolio-Rushikesh-Patil/static/css/main.11f4489e.css.map",
+    "main.50da0ce1.js.map": "/Portfolio-Rushikesh-Patil/static/js/main.50da0ce1.js.map"
   },
   "entrypoints": [
     "static/css/main.11f4489e.css",
-    "static/js/main.b1b32f7a.js"
+    "static/js/main.50da0ce1.js"
   ]
 }
